@@ -2,7 +2,7 @@
   "name": "sit725-2022-t2-prac1",
   "version": "1.0.0",
   "description": "Prac1",
-  "main": "script.js",
+  "main": "js/script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
