@@ -1,0 +1,25 @@
+{
+  "name": "sit725-2022-t2-prac1",
+  "version": "1.0.0",
+  "description": "Prac1",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkPremier/sit725-2022-t2-prac1.git"
+  },
+  "keywords": [
+    "deakin"
+  ],
+  "author": "mark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarkPremier/sit725-2022-t2-prac1/issues"
+  },
+  "homepage": "https://github.com/MarkPremier/sit725-2022-t2-prac1#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
